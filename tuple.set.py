@@ -17,3 +17,4 @@ del data['Harsh']
 print(data)
 prog = {'js':'Atom','Cs':'vs','Python':['Pycharm','Sublime'],'java':{'Jse':'Netbeans','JEE':'Eclipse'}}
 print(prog['java']['Jse'])
+print(prog['Cs'])
